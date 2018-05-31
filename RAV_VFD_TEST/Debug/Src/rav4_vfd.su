@@ -1,0 +1,9 @@
+rav4_vfd.c:14:6:writebyte	16	static
+rav4_vfd.c:34:6:display_graphic_32x32	16	static
+rav4_vfd.c:47:6:display_graphic_16x32	16	static
+rav4_vfd.c:62:6:display_graphic_32x64	16	static
+rav4_vfd.c:76:4:byte_reverse	8	static
+rav4_vfd.c:90:6:display_string_5x8	48	static
+rav4_vfd.c:112:6:display_string_8x16	48	static
+rav4_vfd.c:137:6:Rav4_Display	16	static
+rav4_vfd.c:175:6:Rav4_Vfd_Init	8	static
